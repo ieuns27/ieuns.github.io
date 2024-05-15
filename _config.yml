@@ -29,7 +29,7 @@ author: ieuns
 author_bio: Hi, my name is ieuns. I'm studying Web Hacking these days.
 author_email: "les070207@naver.com"
 author_location: South Korea
-author_website_url: "https://sujaykundu.com"
+author_website_url: null # 나중에 나만의 웹 사이트 생기면 "https://example.com"
 typewrite-text: "From the lowest to the highest"
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
